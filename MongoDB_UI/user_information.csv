@@ -1,0 +1,4 @@
+,usrAccount,usrName,usrSex,usrAge,usrAbility,usrWork_time,usrSalary,usrTransaction_number,usrNegative_comment
+0,abcd,admin,男,10,C++,"['weekday', '上午']",50,35,2
+1,test,Breeze,女,20,C,"['weekday', '上午']",50,19,10
+2,Gardenwords,Hello World,女,21,Python,"['weekday', '上午']",500,13,0
